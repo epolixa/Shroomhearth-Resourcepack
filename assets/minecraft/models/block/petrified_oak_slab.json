@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/petrified_oak_slab_top",
+        "top": "block/petrified_oak_slab_top",
+        "side": "block/petrified_oak_slab"
+    }
+}
