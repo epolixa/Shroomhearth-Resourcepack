@@ -1,0 +1,12 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/discord_icon.png",
+			"ascent": 7,
+			"chars": [
+				"\ue520"
+			]
+		}
+	]
+}
