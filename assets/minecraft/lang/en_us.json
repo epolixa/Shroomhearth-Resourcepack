@@ -2,5 +2,6 @@
 	"item.minecraft.bat_wing": "Bat Wing",
 	"item.minecraft.porcelain": "Porcelain",
 	"item.minecraft.porcelain.beckon_inventory": "You cannot enter The Porcelain with items",
-	"item.minecraft.porcelain.beckon_dissonance": "You cannot enter The Porcelain here"
+	"item.minecraft.porcelain.beckon_dissonance": "You cannot enter The Porcelain here",
+	"item.minecraft.porcelain.fading": "Vision fading"
 }
