@@ -1,6 +1,6 @@
 {
     "parent": "item/crossbow",
     "textures": {
-        "layer0": "item/soul_crossbow_firework"
+        "layer0": "item/soul_crossbow/firework"
     }
 }

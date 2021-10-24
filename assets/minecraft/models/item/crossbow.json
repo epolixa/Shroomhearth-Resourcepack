@@ -78,7 +78,7 @@
       "predicate": {
         "custom_model_data": 411
       },
-      "model": "item/soul_crossbow"
+      "model": "item/soul_crossbow/standby"
     },
     {
       "predicate": {
@@ -91,7 +91,7 @@
         "pulling": 1,
         "custom_model_data": 411
       },
-      "model": "item/soul_crossbow_pulling_0"
+      "model": "item/soul_crossbow/pulling_0"
     },
     {
       "predicate": {
@@ -106,7 +106,7 @@
         "pull": 0.58,
         "custom_model_data": 411
       },
-      "model": "item/soul_crossbow_pulling_1"
+      "model": "item/soul_crossbow/pulling_1"
     },
     {
       "predicate": {
@@ -121,7 +121,7 @@
         "pull": 1.0,
         "custom_model_data": 411
       },
-      "model": "item/soul_crossbow_pulling_2"
+      "model": "item/soul_crossbow/pulling_2"
     },
     {
       "predicate": {
@@ -134,7 +134,7 @@
         "charged": 1,
         "custom_model_data": 411
       },
-      "model": "item/soul_crossbow_arrow"
+      "model": "item/soul_crossbow/arrow"
     },
     {
       "predicate": {
@@ -149,7 +149,7 @@
         "firework": 1,
         "custom_model_data": 411
       },
-      "model": "item/soul_crossbow_firework"
+      "model": "item/soul_crossbow/firework"
     }
   ]
 }

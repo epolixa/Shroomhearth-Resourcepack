@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/soul_crossbow_standby"
+    "layer0": "item/soul_crossbow/standby"
   },
   "display": {
     "thirdperson_righthand": {
