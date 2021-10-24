@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/jack"
+        "layer0": "item/spoop"
     }
 }
