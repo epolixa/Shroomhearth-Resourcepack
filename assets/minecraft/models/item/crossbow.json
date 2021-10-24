@@ -82,6 +82,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 416
+      },
+      "model": "item/cog_crossbow/standby"
+    },
+    {
+      "predicate": {
         "pulling": 1
       },
       "model": "item/crossbow_pulling_0"
@@ -92,6 +98,13 @@
         "custom_model_data": 411
       },
       "model": "item/soul_crossbow/pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 416
+      },
+      "model": "item/cog_crossbow/pulling_0"
     },
     {
       "predicate": {
@@ -111,6 +124,14 @@
     {
       "predicate": {
         "pulling": 1,
+        "pull": 0.58,
+        "custom_model_data": 416
+      },
+      "model": "item/cog_crossbow/pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
         "pull": 1.0
       },
       "model": "item/crossbow_pulling_2"
@@ -122,6 +143,14 @@
         "custom_model_data": 411
       },
       "model": "item/soul_crossbow/pulling_2"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 1.0,
+        "custom_model_data": 416
+      },
+      "model": "item/cog_crossbow/pulling_2"
     },
     {
       "predicate": {
@@ -139,6 +168,13 @@
     {
       "predicate": {
         "charged": 1,
+        "custom_model_data": 416
+      },
+      "model": "item/cog_crossbow/arrow"
+    },
+    {
+      "predicate": {
+        "charged": 1,
         "firework": 1
       },
       "model": "item/crossbow_firework"
@@ -150,6 +186,14 @@
         "custom_model_data": 411
       },
       "model": "item/soul_crossbow/firework"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "firework": 1,
+        "custom_model_data": 416
+      },
+      "model": "item/cog_crossbow/firework"
     }
   ]
 }
