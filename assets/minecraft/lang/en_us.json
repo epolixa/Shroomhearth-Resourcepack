@@ -6,5 +6,8 @@
 	"item.minecraft.porcelain.fading": "Vision fading",
 	"item.minecraft.porcelain.anchor_lost": "Your Porcelain was missing",
 	"item.minecraft.porcelain.nearby_monster": "You may not enter the Porcelain now, there are monsters nearby",
-	"item.minecraft.spoop": "Spoop"
+	"item.minecraft.spoop": "Spoop",
+	"wilderness.entering": "Entering Wilderness",
+	"wilderness.leaving": "Leaving Wilderness",
+	"wilderness.tooltip": "The Wilderness is part of the world that is marked to be reset for future Minecraft updates. Anything built in The Wilderness may eventually be lost."
 }

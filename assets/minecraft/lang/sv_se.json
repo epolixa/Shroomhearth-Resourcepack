@@ -5,5 +5,9 @@
 	"item.minecraft.porcelain.beckon_dissonance": "Du kan inte komma in The Porcelain här",
 	"item.minecraft.porcelain.fading": "Dröm bleknar",
 	"item.minecraft.porcelain.anchor_lost": "Plats förlorad",
-	"item.minecraft.spoop": "Spoop"
+	"item.minecraft.porcelain.nearby_monster": "Du kanske inte kommer in i The Porcelain nu, det finns monster i närheten",
+	"item.minecraft.spoop": "Spoop",
+	"wilderness.entering": "Gå in i Wilderness",
+	"wilderness.leaving": "Att lämna Wilderness",
+	"wilderness.tooltip": "Wilderness är den del av världen som är markerad att återställas för framtida Minecraft-uppdateringar. Allt som är byggt i The Wilderness kommer sannolikt att gå förlorat."
 }
