@@ -12,6 +12,7 @@
 	"wilderness.leaving": "Leaving Wilderness",
 	"wilderness.tooltip": "The Wilderness is part of the world that is marked to be reset for future Minecraft updates. Anything built in The Wilderness may eventually be lost.",
 
+	"item.minecraft.charm": "Charm",
 	"community.favor.status_disabled": "Favor progress bars disabled",
 	"community.favor.status_enabled": "Favor progress bars enabled",
 	"community.cannot_convert_harmony": "Your Harmony could not be captured into a Charm",
