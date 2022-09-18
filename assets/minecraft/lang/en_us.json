@@ -38,5 +38,7 @@
 	"community.favor.strength": "Strength",
 	"community.favor.strength.tooltip": "Applies the Strength effect to all players",
 	"community.favor.uptick": "Uptick",
-	"community.favor.uptick.tooltip": "Increases random tick speed to 24"
+	"community.favor.uptick.tooltip": "Increases random tick speed to 24",
+
+	"item.minecraft.recall_whistle": "Recall Whistle"
 }
