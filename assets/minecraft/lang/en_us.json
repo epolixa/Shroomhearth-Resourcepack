@@ -40,5 +40,7 @@
 	"community.favor.uptick": "Uptick",
 	"community.favor.uptick.tooltip": "Increases random tick speed to 24",
 
-	"item.minecraft.recall_whistle": "Recall Whistle"
+	"item.minecraft.recall_whistle": "Recall Whistle",
+	"recall.cannot_procure_whistle": "You cannot procure a Recall Whistle right now",
+	"recall.cannot_procure_whistle_tooltip": "A Netherite Ingot is required to procure a Recall Whistle"
 }
