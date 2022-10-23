@@ -12,6 +12,10 @@
 	"wilderness.leaving": "Leaving Wilderness",
 	"wilderness.tooltip": "The Wilderness is part of the world that is marked to be reset for future Minecraft updates. Anything built in The Wilderness may eventually be lost.",
 
+	"arena.entering": "Entering Arena",
+	"arena.leaving": "Leaving Arena",
+	"arena.tooltip": "Arenas are zones where PvP is encouraged. Players will drop their heads when killed inside an Arena.",
+
 	"item.minecraft.charm": "Charm",
 	"community.favor.status_disabled": "Favor progress bars disabled",
 	"community.favor.status_enabled": "Favor progress bars enabled",
