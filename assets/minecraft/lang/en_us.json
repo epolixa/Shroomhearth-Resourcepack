@@ -46,5 +46,8 @@
 
 	"item.minecraft.recall_whistle": "Recall Whistle",
 	"recall.cannot_procure_whistle": "You cannot procure a Recall Whistle right now",
-	"recall.cannot_procure_whistle_tooltip": "A Netherite Ingot is required to procure a Recall Whistle"
+	"recall.cannot_procure_whistle_tooltip": "A Netherite Ingot is required to procure a Recall Whistle",
+
+	"habberdasher.cannot_fill_head": "You cannot paint a head right now",
+	"habberdasher.cannot_fill_head.tooltip": "One level of experience and a player or mob head are needed to paint a head"
 }
