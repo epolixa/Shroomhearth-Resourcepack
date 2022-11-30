@@ -1,0 +1,20 @@
+{
+	"player_head.clown_professor": {
+		"subtitle": "Toilet kicks",
+		"sounds": [
+			"shroomhearth:player_head/clown_professor"
+		]
+	},
+	"player_head.lonnie_mack": {
+		"subtitle": "Guitar riffs",
+		"sounds": [
+			"shroomhearth:player_head/lonnie_mack"
+		]
+	},
+	"player_head.krstfr": {
+		"subtitle": "Skeleton doots",
+		"sounds": [
+			"shroomhearth:player_head/krstfr"
+		]
+	}
+}
