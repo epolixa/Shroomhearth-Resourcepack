@@ -51,6 +51,8 @@
 	"community.favor.uptick.tooltip": "Increases random tick speed to 24",
 	"community.favor.easy": "Easy Difficulty",
 	"community.favor.easy.tooltip": "Changes the Difficulty to Easy",
+	"community.favor.xp_rain": "XP Rain",
+	"community.favor.xp_rain.tooltip": "Causes Experience orbs to rain from the sky",
 
 	"item.minecraft.recall_whistle": "Recall Whistle",
 	"recall.cannot_procure_whistle": "You cannot procure a Recall Whistle right now",
