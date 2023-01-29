@@ -49,6 +49,8 @@
 	"community.favor.strength.tooltip": "Applies the Strength effect to all players",
 	"community.favor.uptick": "Uptick",
 	"community.favor.uptick.tooltip": "Increases random tick speed to 24",
+	"community.favor.clear_weather": "Clear Weather",
+	"community.favor.clear_weather.tooltip": "Stops weather from changing and clears the skies",
 	"community.favor.easy": "Easy Difficulty",
 	"community.favor.easy.tooltip": "Changes the Difficulty to Easy",
 	"community.favor.xp_rain": "XP Rain",
