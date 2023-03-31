@@ -1,0 +1,10 @@
+{
+	"april_fools.fart": {
+		"subtitle": "Fart",
+		"sounds": [
+			"april_fools:fart/fart_1",
+			"april_fools:fart/fart_2",
+			"april_fools:fart/fart_7"
+		]
+	}
+}
