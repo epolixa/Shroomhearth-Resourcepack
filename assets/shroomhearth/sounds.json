@@ -5,16 +5,28 @@
 			"shroomhearth:player_head/clown_professor"
 		]
 	},
+	"player_head.krstfr": {
+		"subtitle": "Skeleton doots",
+		"sounds": [
+			"shroomhearth:player_head/krstfr"
+		]
+	},
 	"player_head.lonnie_mack": {
 		"subtitle": "Guitar riffs",
 		"sounds": [
 			"shroomhearth:player_head/lonnie_mack"
 		]
 	},
-	"player_head.krstfr": {
-		"subtitle": "Skeleton doots",
+	"player_head.needle_archer": {
+		"subtitle": "Buffalo horn blares",
 		"sounds": [
-			"shroomhearth:player_head/krstfr"
+			"shroomhearth:player_head/needle_archer"
+		]
+	},
+	"player_head.the_redgear": {
+		"subtitle": "Elite greets",
+		"sounds": [
+			"shroomhearth:player_head/the_redgear"
 		]
 	}
 }
