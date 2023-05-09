@@ -29,6 +29,12 @@
 			"shroomhearth:player_head/needle_archer"
 		]
 	},
+	"player_head.omega825": {
+		"subtitle": "Light saber ignites",
+		"sounds": [
+			"shroomhearth:player_head/omega825"
+		]
+	},
 	"player_head.the_redgear": {
 		"subtitle": "Elite greets",
 		"sounds": [
