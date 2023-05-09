@@ -5,8 +5,14 @@
 			"shroomhearth:player_head/clown_professor"
 		]
 	},
+	"player_head.ender_penda": {
+		"subtitle": "Goop squishes",
+		"sounds": [
+			"shroomhearth:player_head/ender_penda"
+		]
+	},
 	"player_head.krstfr": {
-		"subtitle": "Skeleton doots",
+		"subtitle": "Skull trumpets",
 		"sounds": [
 			"shroomhearth:player_head/krstfr"
 		]
