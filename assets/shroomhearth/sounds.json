@@ -6,7 +6,7 @@
 		]
 	},
 	"player_head.ender_penda": {
-		"subtitle": "Goop squishes",
+		"subtitle": "Goop gushes",
 		"sounds": [
 			"shroomhearth:player_head/ender_penda"
 		]
@@ -33,6 +33,12 @@
 		"subtitle": "Elite greets",
 		"sounds": [
 			"shroomhearth:player_head/the_redgear"
+		]
+	},
+	"player_head.vegworm": {
+		"subtitle": "Worm warbles",
+		"sounds": [
+			"shroomhearth:player_head/vegworm"
 		]
 	}
 }
