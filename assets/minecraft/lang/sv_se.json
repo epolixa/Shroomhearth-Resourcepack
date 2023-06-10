@@ -1,12 +1,12 @@
 {
-	"item.minecraft.porcelain": "Porcelain",
-	"item.minecraft.porcelain.beckon_inventory": "Du kan inte komma in The Porcelain med objekt",
-	"item.minecraft.porcelain.beckon_dissonance": "Du kan inte komma in The Porcelain här",
-	"item.minecraft.porcelain.fading": "Dröm bleknar",
-	"item.minecraft.porcelain.anchor_lost": "Plats förlorad",
-	"item.minecraft.porcelain.nearby_monster": "Du kanske inte kommer in i The Porcelain nu, det finns monster i närheten",
+	"porcelain.porcelain": "Porcelain",
+	"porcelain.porcelain.beckon_inventory": "Du kan inte komma in The Porcelain med objekt",
+	"porcelain.porcelain.beckon_dissonance": "Du kan inte komma in The Porcelain här",
+	"porcelain.porcelain.fading": "Dröm bleknar",
+	"porcelain.porcelain.anchor_lost": "Plats förlorad",
+	"porcelain.porcelain.nearby_monster": "Du kanske inte kommer in i The Porcelain nu, det finns monster i närheten",
 
-	"item.minecraft.spoop": "Spoop",
+	"hollow_vale.porcelain": "Spoop",
 	
 	"wilderness.entering": "Gå in i Wilderness",
 	"wilderness.leaving": "Att lämna Wilderness",

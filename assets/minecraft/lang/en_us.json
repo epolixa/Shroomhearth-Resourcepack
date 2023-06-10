@@ -1,12 +1,9 @@
 {
-	"item.minecraft.porcelain": "Porcelain",
-	"item.minecraft.porcelain.beckon_inventory": "You cannot enter The Porcelain with items",
-	"item.minecraft.porcelain.beckon_dissonance": "You cannot enter The Porcelain here",
-	"item.minecraft.porcelain.fading": "Vision fading",
-	"item.minecraft.porcelain.anchor_lost": "Your Porcelain was missing",
-	"item.minecraft.porcelain.nearby_monster": "You may not enter the Porcelain now, there are monsters nearby",
+	"porcelain.porcelain": "Porcelain",
+	"porcelain.anchor_lost": "Your Porcelain was missing",
+	"porcelain.nearby_monster": "You may not enter the Porcelain now, there are monsters nearby",
 
-	"item.minecraft.spoop": "Spoop",
+	"hollow_vale.spoop": "Spoop",
 
 	"wilderness.entering": "Entering Wilderness",
 	"wilderness.leaving": "Leaving Wilderness",
@@ -14,9 +11,11 @@
 
 	"arena.entering": "Entering Arena",
 	"arena.leaving": "Leaving Arena",
-	"arena.tooltip": "Arenas are zones where PvP is encouraged. Players will drop their heads when killed inside an Arena.",
+	"arena.tooltip": "Arenas are zones where PvP is encouraged. Inside an Arena, Players will accumulate Harmony from fighting each other and drop their heads upon death. Arena K/D can be viewed at the World Hall.",
 
-	"item.minecraft.charm": "Charm",
+	"relic.guardians_glaive": "Guardian's Glaive",
+
+	"community.charm": "Charm",
 	"community.favor.status_disabled": "Favor progress bars disabled",
 	"community.favor.status_enabled": "Favor progress bars enabled",
 	"community.cannot_convert_harmony": "Your Harmony could not be captured into a Charm",
@@ -55,8 +54,16 @@
 	"community.favor.easy.tooltip": "Changes the Difficulty to Easy",
 	"community.favor.xp_rain": "XP Rain",
 	"community.favor.xp_rain.tooltip": "Causes Experience orbs to rain from the sky",
+	"community.favor.stop_daylight": "Stop Daylight",
+	"community.favor.stop_daylight.tooltip": "Pauses the Day/Night cycle",
+	"community.favor.horsepower": "Horsepower",
+	"community.favor.horsepower.tooltip": "Mounts receive Speed, Jump Boost, and Slow Falling effects while being ridden. Airborne mounts receive the Levitation effect while looking upwards.",
+	"community.favor.disable_cramming": "No Entity Cramming",
+	"community.favor.disable_cramming.tooltip": "Prevents entities from taking cramming damage",
+	"community.favor.disable_spawning": "No Mob Spawning",
+	"community.favor.disable_spawning.tooltip": "Prevents mobs from spawning naturally",
 
-	"item.minecraft.recall_whistle": "Recall Whistle",
+	"recall.recall_whistle": "Recall Whistle",
 	"recall.cannot_procure_whistle": "You cannot procure a Recall Whistle right now",
 	"recall.cannot_procure_whistle_tooltip": "A Netherite Ingot is required to procure a Recall Whistle",
 
