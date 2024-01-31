@@ -70,5 +70,17 @@
 	"haberdasher.cannot_fill_head": "You cannot paint a head right now",
 	"haberdasher.cannot_fill_head.tooltip": "One level of experience and a player or mob head are needed to paint a head",
 
-	"allay_bottle.allay_bottle": "Bottle of Allay"
+	"allay_bottle.allay_bottle": "Bottle of Allay",
+
+	"carves.dragon_tail": "Dragon Tail",
+	"carves.dragon_scale.max_health": "Hearty Dragon Scale",
+	"carves.dragon_scale.armor": "Tough Dragon Scale",
+	"carves.dragon_scale.knockback_resistance": "Sturdy Dragon Scale",
+	"carves.dragon_scale.movement_speed": "Sleek Dragon Scale",
+	"carves.dragon_scale.attack_damage": "Sharp Dragon Scale",
+	"carves.dragon_scale.attack_speed": "Lithe Dragon Scale",
+	"carves.dragon_scale.step_height": "Layered Dragon Scale",
+	"carves.dragon_scale.reach": "Long Dragon Scale",
+	"carves.dragon_scale.scale_increase": "Enlarged Dragon Scale",
+	"carves.dragon_scale.scale_decrease": "Stunted Dragon Scale"
 }
