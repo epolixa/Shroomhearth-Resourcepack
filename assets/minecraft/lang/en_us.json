@@ -73,14 +73,16 @@
 	"allay_bottle.allay_bottle": "Bottle of Allay",
 
 	"carves.dragon_tail": "Dragon Tail",
-	"carves.dragon_scale.max_health": "Hearty Dragon Scale",
 	"carves.dragon_scale.armor": "Tough Dragon Scale",
-	"carves.dragon_scale.knockback_resistance": "Sturdy Dragon Scale",
-	"carves.dragon_scale.movement_speed": "Sleek Dragon Scale",
 	"carves.dragon_scale.attack_damage": "Sharp Dragon Scale",
 	"carves.dragon_scale.attack_speed": "Lithe Dragon Scale",
-	"carves.dragon_scale.step_height": "Layered Dragon Scale",
-	"carves.dragon_scale.reach": "Long Dragon Scale",
-	"carves.dragon_scale.scale_increase": "Enlarged Dragon Scale",
-	"carves.dragon_scale.scale_decrease": "Stunted Dragon Scale"
+	"carves.dragon_scale.block_break_speed": "Pointed Dragon Scale",
+	"carves.dragon_scale.gravity": "Downy Dragon Scale",
+	"carves.dragon_scale.interaction_range": "Stretched Dragon Scale",
+	"carves.dragon_scale.jump_strength": "Limber Dragon Scale",
+	"carves.dragon_scale.max_health": "Hearty Dragon Scale",
+	"carves.dragon_scale.movement_speed": "Sleek Dragon Scale",
+	"carves.dragon_scale.negative_scale": "Stunted Dragon Scale",
+	"carves.dragon_scale.positive_scale": "Enlarged Dragon Scale",
+	"carves.dragon_scale.step_height": "Layered Dragon Scale"
 }
