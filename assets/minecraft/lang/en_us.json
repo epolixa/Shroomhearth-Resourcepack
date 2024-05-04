@@ -2,6 +2,7 @@
 	"porcelain.porcelain": "Porcelain",
 	"porcelain.anchor_lost": "Your Porcelain was missing",
 	"porcelain.nearby_monster": "You may not enter the Porcelain now, there are monsters nearby",
+	"porcelain.nearby_porcelain": "You may not enter the Porcelain here, another player's Porcelain is too close",
 
 	"hollow_vale.spoop": "Spoop",
 
