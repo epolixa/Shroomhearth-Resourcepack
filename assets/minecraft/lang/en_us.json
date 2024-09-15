@@ -85,5 +85,10 @@
 	"carves.dragon_scale.movement_speed": "Sleek Dragon Scale",
 	"carves.dragon_scale.negative_scale": "Stunted Dragon Scale",
 	"carves.dragon_scale.positive_scale": "Enlarged Dragon Scale",
-	"carves.dragon_scale.step_height": "Layered Dragon Scale"
+	"carves.dragon_scale.step_height": "Layered Dragon Scale",
+
+	"painting.shroomhearth.founder.title": "Founder",
+	"painting.shroomhearth.founder.author": "epolixa",
+	"painting.shroomhearth.boats.title": "Boats",
+	"painting.shroomhearth.boats.author": "Lonnie_Mack"
 }
