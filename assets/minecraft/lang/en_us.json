@@ -63,6 +63,8 @@
 	"community.favor.disable_cramming.tooltip": "Prevents entities from taking cramming damage",
 	"community.favor.disable_spawning": "No Mob Spawning",
 	"community.favor.disable_spawning.tooltip": "Prevents mobs from spawning naturally",
+	"community.favor.disable_fall_damage": "No Fall Damage",
+	"community.favor.disable_fall_damage.tooltip": "Prevents players from taking fall damage",
 
 	"recall.recall_whistle": "Recall Whistle",
 	"recall.cannot_procure_whistle": "You cannot procure a Recall Whistle right now",
