@@ -16,11 +16,18 @@
 
 	"relic.guardians_glaive": "Guardian's Glaive",
 
+	"world_hall.cannot_print_lore": "You cannot print lore onto an item right now",
+	"world_hall.cannot_print_lore.tooltip": "One level of experience is required to print lore onto an item",
+
 	"community.charm": "Charm",
 	"community.favor.status_disabled": "Favor progress bars disabled",
 	"community.favor.status_enabled": "Favor progress bars enabled",
 	"community.cannot_convert_harmony": "You cannot mint a Charm right now",
 	"community.cannot_convert_harmony.tooltip": "At least 100 Harmony and a Diamond is required to mint a Charm",
+	"community.cannot_create_hcf": "You cannot create Harmonized Chorus Fruit right now",
+	"community.cannot_create_hcf.tooltip": "A Charm and a Chorus Flower are required to create a set of Harmonized Chorus Fruit",
+	"community:cannot_create_permit": "You cannot create a Living Island Permit right now",
+	"community:cannot_create_permit.tooltip": "A Charm and Paper are required to create a Living Island Permit",
 	"community.missing_charm": "You may not activate this Favor",
 	"community.missing_charm.tooltip": "A Charm is required to activate a Favor",
 	"community.favor.disable_raids": "No Raids",
