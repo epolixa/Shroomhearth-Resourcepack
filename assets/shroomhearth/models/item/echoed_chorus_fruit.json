@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "shroomhearth:item/echoed_chorus_fruit"
+    }
+}
