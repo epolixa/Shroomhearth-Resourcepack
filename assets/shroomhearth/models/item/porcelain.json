@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "shroomhearth:item/porcelain"
+  },
+  "display": {
+  	"head": {
+  		"translation": [0, -36, 0]
+  	} 
+  }
+}
