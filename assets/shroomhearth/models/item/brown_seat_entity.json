@@ -1,0 +1,7 @@
+{
+    "parent": "shroomhearth:item/seat_entity",
+    "textures": {
+        "0": "shroomhearth:item/brown_seat_entity",
+        "particle": "shroomhearth:item/brown_seat_entity"
+    }
+}
