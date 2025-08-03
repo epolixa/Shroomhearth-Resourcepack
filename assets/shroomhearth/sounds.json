@@ -50,7 +50,8 @@
 	"player_head.epolixa": {
 		"subtitle": "Cuica squeaks",
 		"sounds": [
-			"shroomhearth:player_head/epolixa"
+			"shroomhearth:player_head/epolixa_1",
+			"shroomhearth:player_head/epolixa_2"
 		]
 	}
 }
