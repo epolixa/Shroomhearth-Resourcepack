@@ -46,5 +46,11 @@
 		"sounds": [
 			"shroomhearth:player_head/vegworm"
 		]
+	},
+	"player_head.epolixa": {
+		"subtitle": "Cuica squeaks",
+		"sounds": [
+			"shroomhearth:player_head/epolixa"
+		]
 	}
 }
