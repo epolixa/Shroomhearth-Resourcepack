@@ -1,0 +1,6 @@
+{
+  "parent": "shroomhearth:item/venshari/dirge",
+  "textures": {
+    "layer0": "shroomhearth:item/venshari/dirge_openning_5"
+  }
+}

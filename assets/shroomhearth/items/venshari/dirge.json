@@ -1,0 +1,56 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "shroomhearth:item/venshari/dirge"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "shroomhearth:item/venshari/dirge_openning_1"
+          },
+          "threshold": 0.2
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "shroomhearth:item/venshari/dirge_openning_2"
+          },
+          "threshold": 0.4
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "shroomhearth:item/venshari/dirge_openning_3"
+          },
+          "threshold": 0.74
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "shroomhearth:item/venshari/dirge_openning_4"
+          },
+          "threshold": 0.82
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "shroomhearth:item/venshari/dirge_openning_5"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "shroomhearth:item/venshari/dirge_openning_0"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.05
+    },
+    "property": "minecraft:using_item"
+  }
+}
