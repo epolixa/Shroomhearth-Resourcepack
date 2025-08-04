@@ -27,14 +27,14 @@
             "type": "minecraft:model",
             "model": "shroomhearth:item/venshari/dirge_openning_3"
           },
-          "threshold": 0.74
+          "threshold": 0.75
         },
         {
           "model": {
             "type": "minecraft:model",
             "model": "shroomhearth:item/venshari/dirge_openning_4"
           },
-          "threshold": 0.82
+          "threshold": 0.8
         },
         {
           "model": {
