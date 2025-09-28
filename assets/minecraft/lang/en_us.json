@@ -74,6 +74,8 @@
 	"community.favor.disable_fall_damage.tooltip": "Prevents players from taking fall damage",
 	"community.favor.locator_bar": "Locator Bar",
 	"community.favor.locator_bar.tooltip": "Enables the Locator Bar",
+	"community.favor.double_xp": "Double XP",
+	"community.favor.double_xp.tooltip": "Experience orbs are duplicated once after spawning",
 
 	"recall.recall_whistle": "Recall Whistle",
 	"recall.cannot_procure_whistle": "You cannot procure a Recall Whistle right now",
