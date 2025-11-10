@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_emissive",
+  "textures": {
+    "cross": "shroomhearth:item/harmony_mushroom",
+    "cross_emissive": "shroomhearth:item/harmony_mushroom"
+  }
+}
