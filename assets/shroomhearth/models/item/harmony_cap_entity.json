@@ -1,0 +1,93 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "shroomhearth:item/harmony_cap_cap",
+        "cap": "shroomhearth:item/harmony_cap_cap",
+        "stem": "shroomhearth:item/harmony_cap_stem"
+    },
+    "display": {
+        "head": {
+            "rotation": [0, 0, 0],
+            "translation": [0, 5, 0],
+            "scale": [1, 1, 1]
+        }
+    },
+    "elements": [
+        {
+            "from": [4, 2.99, 4],
+            "to": [12, 2.99, 12],
+            "shade": false,
+            "light_emission": 15,
+            "faces": {
+                "up": {"uv": [0, 0, 8, 8], "texture": "#cap"},
+                "down": {"uv": [0, 8, 8, 0], "texture": "#cap"}
+            }
+        },
+        {
+            "from": [7.75, 0, -0.5],
+            "to": [7.75, 2.99, 0.5],
+            "rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+            "shade": false,
+            "light_emission": 15,
+            "faces": {
+                "east": {"uv": [0, 4, 1, 7], "texture": "#stem"},
+                "west": {"uv": [0, 4, 1, 7], "texture": "#stem"}
+            }
+        },
+        {
+            "from": [7.25, 0, 0],
+            "to": [8.25, 2.99, 0],
+            "rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+            "shade": false,
+            "light_emission": 15,
+            "faces": {
+                "north": {"uv": [0, 4, 1, 7], "texture": "#stem"},
+                "south": {"uv": [0, 4, 1, 7], "texture": "#stem"}
+            }
+        },
+        {
+            "from": [12, 0, -3.35],
+            "to": [12, 2.99, -2.35],
+            "rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+            "shade": false,
+            "light_emission": 15,
+            "faces": {
+                "east": {"uv": [0, 4, 1, 7], "texture": "#stem"},
+                "west": {"uv": [0, 4, 1, 7], "texture": "#stem"}
+            }
+        },
+        {
+            "from": [11.5, 0, -2.85],
+            "to": [12.5, 2.99, -2.85],
+            "rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+            "shade": false,
+            "light_emission": 15,
+            "faces": {
+                "north": {"uv": [0, 4, 1, 7], "texture": "#stem"},
+                "south": {"uv": [0, 4, 1, 7], "texture": "#stem"}
+            }
+        },
+        {
+            "from": [12.75, 0, 1.6],
+            "to": [12.75, 2.99, 2.6],
+            "rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+            "shade": false,
+            "light_emission": 15,
+            "faces": {
+                "east": {"uv": [0, 4, 1, 7], "texture": "#stem"},
+                "west": {"uv": [0, 4, 1, 7], "texture": "#stem"}
+            }
+        },
+        {
+            "from": [12.25, 0, 2.1],
+            "to": [13.25, 2.99, 2.1],
+            "rotation": {"angle": -45, "axis": "y", "origin": [0, 0, 0]},
+            "shade": false,
+            "light_emission": 15,
+            "faces": {
+                "north": {"uv": [0, 4, 1, 7], "texture": "#stem"},
+                "south": {"uv": [0, 4, 1, 7], "texture": "#stem"}
+            }
+        }
+    ]
+}
