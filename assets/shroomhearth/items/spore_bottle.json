@@ -1,0 +1,16 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "shroomhearth:item/spore_bottle",
+        "tints": [
+            {
+                "type": "minecraft:potion",
+                "default": [
+                    1,
+                    1,
+                    1
+                ]
+            }
+        ]
+    }
+}
