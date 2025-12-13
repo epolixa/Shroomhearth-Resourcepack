@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "shroomhearth:item/spore_bottle_overlay",
-    "layer1": "shroomhearth:item/spore_bottle"
-  }
-}

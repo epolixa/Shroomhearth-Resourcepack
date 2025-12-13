@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "shroomhearth:item/spore_bottle",
+        "model": "shroomhearth:item/spores",
         "tints": [
             {
                 "type": "minecraft:custom_model_data",
