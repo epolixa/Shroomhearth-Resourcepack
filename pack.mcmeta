@@ -1,6 +1,8 @@
 {
-   "pack": {
-      "pack_format": 63,
-      "description": "Shroomhearth Resource Pack"
-   }
+	"pack": {
+		"pack_format": 75.0,
+		"description": "Bespoke Resource Pack for the Shroomhearth Minecraft server",
+		"min_format": [75, 0],
+		"max_format": [75, 0]
+	}
 }
