@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "shroomhearth:item/jerry_rig_in_hand"
+  }
+}
