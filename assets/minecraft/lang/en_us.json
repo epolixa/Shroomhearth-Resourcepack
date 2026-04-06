@@ -1,8 +1,51 @@
 {
-	"porcelain.porcelain": "Porcelain",
-	"porcelain.anchor_lost": "Your Porcelain was missing",
-	"porcelain.nearby_monster": "You may not enter the Porcelain now, there are monsters nearby",
-	"porcelain.nearby_porcelain": "You may not enter the Porcelain here, another player's Porcelain is too close",
+	"advancements.shroomhearth_challenges.root.title": "Shroomhearth Challenges",
+	"advancements.shroomhearth_challenges.root.description": "Take on various challenges created by Players",
+	"advancements.shroomhearth_guide.root.title": "Shroomhearth Guide",
+	"advancements.shroomhearth_guide.root.description": "Learn about the unique features and mechanics of Shroomhearth",
+	"advancements.shroomhearth_guide.a_cut_above.title": "A Cut Above",
+	"advancements.shroomhearth_guide.a_cut_above.description": "Craft alternate materials with a Stonecutter",
+	"advancements.shroomhearth_guide.bottle_buddy.title": "Bottle Buddy",
+	"advancements.shroomhearth_guide.bottle_buddy.description": "Catch an Allay in a Bottle",
+	"advancements.shroomhearth_guide.ominous_power.title": "Ominous Power",
+	"advancements.shroomhearth_guide.ominous_power.description": "Defeat an Ominous Ender Dragon",
+	"advancements.shroomhearth_stories.root.title": "Shroomhearth Stories",
+	"advancements.shroomhearth_stories.root.description": "Discover the world's locations and stories",
+
+	"enchantment.shroomhearth.rune_of_armor": "Rune of Armor",
+	"enchantment.shroomhearth.mineglow": "Mineglow",
+
+	"entity.shroomhearth.black_seat": "Black Seat",
+	"entity.shroomhearth.white_seat": "White Seat",
+
+	"event.shroomhearth.spores_of_armor": "Spores of Armor",
+	"event.shroomhearth.spores_of_armor.tooltip": "Applies +4 Armor to all Players",
+	"event.shroomhearth.spores_of_haste": "Spores of Haste",
+	"event.shroomhearth.spores_of_haste.tooltip": "Applies +10%% Attack Speed and +20%% Block Break Speed to all Players",
+
+	"item.shroomhearth.porcelain_amphora": "Porcelain Amphora",
+	"item.shroomhearth.porcelain_amphora.missing": "Your Porcelain Amphora could not be found",
+	"item.shroomhearth.porcelain_amphora.not_safe": "You may not enter The Porcelain now, there are monsters nearby",
+	"item.shroomhearth.porcelain_amphora.too_close": "You may not enter The Porcelain here, another Porcelain Amphora is too close",
+
+	"painting.shroomhearth.founder.title": "Founder",
+	"painting.shroomhearth.founder.author": "epolixa",
+	"painting.shroomhearth.bandon_harbor.title": "Bandon Harbor",
+	"painting.shroomhearth.bandon_harbor.author": "Lonnie_Mack",
+	"painting.shroomhearth.the_raft.title": "The Raft",
+	"painting.shroomhearth.the_raft.author": "_TheBman_",
+
+	"sleep.is_sleeping": " is sleeping",
+	"sleep.woke_up": " woke up",
+
+	"subtitles.player_head.epolixa": "Cuica squeaks",
+
+
+
+
+	
+
+
 	"hollow_vale.spoop": "Spoop",
 	"wilderness.entering": "Entering Wilderness",
 	"wilderness.leaving": "Leaving Wilderness",
@@ -89,11 +132,6 @@
 	"carves.dragon_scale.movement_speed": "Sleek Dragon Scale",
 	"carves.dragon_scale.negative_scale": "Stunted Dragon Scale",
 	"carves.dragon_scale.positive_scale": "Enlarged Dragon Scale",
-	"carves.dragon_scale.step_height": "Layered Dragon Scale",
-	"painting.shroomhearth.founder.title": "Founder",
-	"painting.shroomhearth.founder.author": "epolixa",
-	"painting.shroomhearth.bandon_harbor.title": "Bandon Harbor",
-	"painting.shroomhearth.bandon_harbor.author": "Lonnie_Mack",
-	"painting.shroomhearth.the_raft.title": "The Raft",
-	"painting.shroomhearth.the_raft.author": "_TheBman_"
+	"carves.dragon_scale.step_height": "Layered Dragon Scale"
+	
 }
