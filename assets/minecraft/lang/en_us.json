@@ -242,6 +242,7 @@
 	"item.shroomhearth.petrichor_pond_pole": "Petrichor Pond Pole",
 	"item.shroomhearth.pink_seat": "Pink Seat",
 	"item.shroomhearth.porcelain_amphora": "Porcelain Amphora",
+	"item.shroomhearth.porcelain_amphora.invalid_position": "You may not enter The Porcelain here, the position is invalid",
 	"item.shroomhearth.porcelain_amphora.missing": "Your Porcelain Amphora could not be found",
 	"item.shroomhearth.porcelain_amphora.not_safe": "You may not enter The Porcelain now, there are monsters nearby",
 	"item.shroomhearth.porcelain_amphora.too_close": "You may not enter The Porcelain here, another Porcelain Amphora is too close",
