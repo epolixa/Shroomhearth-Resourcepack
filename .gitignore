@@ -1,2 +1,5 @@
-shroomhearth.zip
-shroomhearth_resourcepack.zip
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore the resource pack zip file
+shroomhearth_resourcepack*.zip
