@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "shroomhearth:item/porcelain"
+    "layer0": "shroomhearth:item/porcelain_amphora"
   },
   "display": {
   	"head": {

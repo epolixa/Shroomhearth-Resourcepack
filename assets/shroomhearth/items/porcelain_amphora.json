@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "shroomhearth:item/porcelain"
+        "model": "shroomhearth:item/porcelain_amphora"
     }
 }
