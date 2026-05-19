@@ -168,6 +168,8 @@
 	"event.shroomhearth.spores_of_clemency.tooltip": "Pauses the weather cycle",
 	"event.shroomhearth.spores_of_continuity": "Spores of Continuity",
 	"event.shroomhearth.spores_of_continuity.tooltip": "Pauses the day/night cycle",
+	"event.shroomhearth.spores_of_dowsing": "Spores of Dowsing",
+	"event.shroomhearth.spores_of_dowsing.tooltip": "Reveals nearby Harmony Caps in the Locator Bar",
 	"event.shroomhearth.spores_of_ease": "Spores of Ease",
 	"event.shroomhearth.spores_of_ease.tooltip": "Changes the Difficulty to Easy",
 	"event.shroomhearth.spores_of_egg_hunt": "Spores of Egg Hunt",
